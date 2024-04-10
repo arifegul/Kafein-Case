@@ -1,0 +1,17 @@
+C:\Users\arife\OneDrive\Masaüstü\KafeinCase\Kafein.ECommerce\Kafein.ECommerce.Application\bin\Debug\net8.0\Kafein.ECommerce.Application.deps.json
+C:\Users\arife\OneDrive\Masaüstü\KafeinCase\Kafein.ECommerce\Kafein.ECommerce.Application\bin\Debug\net8.0\Kafein.ECommerce.Application.dll
+C:\Users\arife\OneDrive\Masaüstü\KafeinCase\Kafein.ECommerce\Kafein.ECommerce.Application\bin\Debug\net8.0\Kafein.ECommerce.Application.pdb
+C:\Users\arife\OneDrive\Masaüstü\KafeinCase\Kafein.ECommerce\Kafein.ECommerce.Application\bin\Debug\net8.0\Kafein.ECommerce.Domain.dll
+C:\Users\arife\OneDrive\Masaüstü\KafeinCase\Kafein.ECommerce\Kafein.ECommerce.Application\bin\Debug\net8.0\Kafein.ECommerce.Domain.pdb
+C:\Users\arife\OneDrive\Masaüstü\KafeinCase\Kafein.ECommerce\Kafein.ECommerce.Application\obj\Debug\net8.0\Kafein.ECommerce.Application.csproj.AssemblyReference.cache
+C:\Users\arife\OneDrive\Masaüstü\KafeinCase\Kafein.ECommerce\Kafein.ECommerce.Application\obj\Debug\net8.0\Kafein.ECommerce.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arife\OneDrive\Masaüstü\KafeinCase\Kafein.ECommerce\Kafein.ECommerce.Application\obj\Debug\net8.0\Kafein.ECommerce.Application.AssemblyInfoInputs.cache
+C:\Users\arife\OneDrive\Masaüstü\KafeinCase\Kafein.ECommerce\Kafein.ECommerce.Application\obj\Debug\net8.0\Kafein.ECommerce.Application.AssemblyInfo.cs
+C:\Users\arife\OneDrive\Masaüstü\KafeinCase\Kafein.ECommerce\Kafein.ECommerce.Application\obj\Debug\net8.0\Kafein.ECommerce.Application.csproj.CoreCompileInputs.cache
+C:\Users\arife\OneDrive\Masaüstü\KafeinCase\Kafein.ECommerce\Kafein.ECommerce.Application\obj\Debug\net8.0\Kafein.ECommerce.Application.csproj.CopyComplete
+C:\Users\arife\OneDrive\Masaüstü\KafeinCase\Kafein.ECommerce\Kafein.ECommerce.Application\obj\Debug\net8.0\Kafein.ECommerce.Application.dll
+C:\Users\arife\OneDrive\Masaüstü\KafeinCase\Kafein.ECommerce\Kafein.ECommerce.Application\obj\Debug\net8.0\refint\Kafein.ECommerce.Application.dll
+C:\Users\arife\OneDrive\Masaüstü\KafeinCase\Kafein.ECommerce\Kafein.ECommerce.Application\obj\Debug\net8.0\Kafein.ECommerce.Application.pdb
+C:\Users\arife\OneDrive\Masaüstü\KafeinCase\Kafein.ECommerce\Kafein.ECommerce.Application\obj\Debug\net8.0\ref\Kafein.ECommerce.Application.dll
+C:\Users\arife\OneDrive\Masaüstü\KafeinCase\Kafein.ECommerce\Kafein.ECommerce.Application\bin\Debug\net8.0\Kafein.ECommerce.Infrastructure.dll
+C:\Users\arife\OneDrive\Masaüstü\KafeinCase\Kafein.ECommerce\Kafein.ECommerce.Application\bin\Debug\net8.0\Kafein.ECommerce.Infrastructure.pdb

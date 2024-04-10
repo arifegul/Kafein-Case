@@ -1,0 +1,11 @@
+C:\Users\arife\OneDrive\Masaüstü\KafeinCase\Kafein.ECommerce\Kafein.ECommerce.Domain\bin\Debug\net8.0\Kafein.ECommerce.Domain.deps.json
+C:\Users\arife\OneDrive\Masaüstü\KafeinCase\Kafein.ECommerce\Kafein.ECommerce.Domain\bin\Debug\net8.0\Kafein.ECommerce.Domain.dll
+C:\Users\arife\OneDrive\Masaüstü\KafeinCase\Kafein.ECommerce\Kafein.ECommerce.Domain\bin\Debug\net8.0\Kafein.ECommerce.Domain.pdb
+C:\Users\arife\OneDrive\Masaüstü\KafeinCase\Kafein.ECommerce\Kafein.ECommerce.Domain\obj\Debug\net8.0\Kafein.ECommerce.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arife\OneDrive\Masaüstü\KafeinCase\Kafein.ECommerce\Kafein.ECommerce.Domain\obj\Debug\net8.0\Kafein.ECommerce.Domain.AssemblyInfoInputs.cache
+C:\Users\arife\OneDrive\Masaüstü\KafeinCase\Kafein.ECommerce\Kafein.ECommerce.Domain\obj\Debug\net8.0\Kafein.ECommerce.Domain.AssemblyInfo.cs
+C:\Users\arife\OneDrive\Masaüstü\KafeinCase\Kafein.ECommerce\Kafein.ECommerce.Domain\obj\Debug\net8.0\Kafein.ECommerce.Domain.csproj.CoreCompileInputs.cache
+C:\Users\arife\OneDrive\Masaüstü\KafeinCase\Kafein.ECommerce\Kafein.ECommerce.Domain\obj\Debug\net8.0\Kafein.ECommerce.Domain.dll
+C:\Users\arife\OneDrive\Masaüstü\KafeinCase\Kafein.ECommerce\Kafein.ECommerce.Domain\obj\Debug\net8.0\refint\Kafein.ECommerce.Domain.dll
+C:\Users\arife\OneDrive\Masaüstü\KafeinCase\Kafein.ECommerce\Kafein.ECommerce.Domain\obj\Debug\net8.0\Kafein.ECommerce.Domain.pdb
+C:\Users\arife\OneDrive\Masaüstü\KafeinCase\Kafein.ECommerce\Kafein.ECommerce.Domain\obj\Debug\net8.0\ref\Kafein.ECommerce.Domain.dll

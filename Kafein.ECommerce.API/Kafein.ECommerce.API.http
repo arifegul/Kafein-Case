@@ -1,0 +1,6 @@
+@Kafein.ECommerce.API_HostAddress = http://localhost:5031
+
+GET {{Kafein.ECommerce.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
